@@ -84,4 +84,39 @@
     font-family: sans-serif;
     color:black;
 }
+.section_f{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.section_one{
+    
+    justify-content: center;
+    align-items: center;
+}
+.section_one p{
+    margin-top: 30px;
+}
+.section_one button{
+    margin-top: 30px;
+}
+.sec_img img{
+    width: 60px;
+    height: 30px;
+    margin-top: 150px;
+    margin-left: 300px
+    /* justify-content: flex-end;
+    align-items: flex-end; */
+    
+}
+
+.section_two{
+   
+    margin: 20px 0 0 190px;
+}
+.section_two img{
+    
+    width: 650px;
+    height: 400px;
+}
 
